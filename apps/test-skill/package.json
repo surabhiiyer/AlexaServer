@@ -1,0 +1,23 @@
+{
+  "name": "test-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surabhiiyer/test-skill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surabhiiyer/test-skill/issues"
+  },
+  "homepage": "https://github.com/surabhiiyer/test-skill#readme"
+}
